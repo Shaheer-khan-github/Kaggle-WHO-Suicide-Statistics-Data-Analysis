@@ -18,7 +18,7 @@ Sheets in the file is distributed in the following way:
 
 ### g. Verify the Pattern of the data with Year, Gender, Agegroup and Country for confirmation of outlier either it is legitimate or not. 
 
-### h. Gender wise dirtribution of Data.
+### h. Gender wise distribution of Data.
 
 ### i. Converted Age group into ordinal (1 (Smaller) -- 6(Greater value))
 
