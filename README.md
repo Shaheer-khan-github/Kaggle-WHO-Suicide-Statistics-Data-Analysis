@@ -3,7 +3,7 @@ Basic historical (1979-2016) data by country, year and demographic groups
 
 Sheets in the file is distributed in the following way:
 
-a. Data Profiling (Total count, Median, Mean, Quartile, Multi-mode, Min, Max, Blank Count, Sort and unique)
+### a. Data Profiling (Total count, Median, Mean, Quartile, Multi-mode, Min, Max, Blank Count, Sort and unique)
 
 b. Country Wise Distribution (Countries with most suicide cases)
 
