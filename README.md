@@ -1,4 +1,4 @@
-# Data-Analysis-of-WHO-Suicide-Statistics-Kaggle
+# Kaggle-WHO-Suicide-Statistics (Data-Analysis)
 Basic historical (1979-2016) data by country, year and demographic groups
 
 Sheets in the file is distributed in the following way:
